@@ -129,7 +129,7 @@ useEffect(() => {
       <nav className="fixed top-0 left-0 w-full z-50 backdrop-blur-xl bg-white/5 border-b border-white/10">
         <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
           <h1 className="text-3xl font-black tracking-wide">
-            Neo<span className="text-cyan-400">Campus</span>
+            JG<span className="text-cyan-400">University</span>
           </h1>
 
           <div className="hidden md:flex items-center gap-8 text-sm font-medium">
@@ -198,12 +198,12 @@ useEffect(() => {
             </div>
 
             <h1 className="text-5xl sm:text-6xl lg:text-7xl font-black leading-tight">
-              Redefining
+              EXCELLENCE
               <span className="bg-gradient-to-r from-cyan-400 to-purple-400 bg-clip-text text-transparent">
-                {" "}Education
+                {" "}BY
               </span>
               <br />
-              For Tomorrow
+              CHOICE
             </h1>
 
             <p className="mt-6 text-gray-300 text-lg max-w-xl leading-relaxed">
@@ -492,11 +492,11 @@ className="bg-white/5 border border-white/10 backdrop-blur-xl rounded-[28px] p-8
       <footer className="border-t border-white/10 py-10 px-6">
         <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-4">
           <h1 className="text-3xl font-black tracking-wide">
-            Neo<span className="text-cyan-400">Campus</span>
+            JG<span className="text-cyan-400">University</span>
           </h1>
 
           <p className="text-gray-400 text-center md:text-right">
-            © 2026 NeoCampus. All rights reserved.
+            © 2026 JG University. All rights reserved.
           </p>
         </div>
       </footer>
